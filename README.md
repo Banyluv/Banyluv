@@ -1,7 +1,7 @@
 # Hi there 👋
 
-# This is Balarm Francis Etowa
-**Banyluv/Banyluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ This is Balarm Francis Etowa
+ I am a Data Analyt/Data Scrapping specelist/Health Informatic
 
 Here are some ideas to get you started:
 
